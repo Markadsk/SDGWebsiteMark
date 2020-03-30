@@ -1,0 +1,3417 @@
+[
+  {
+    "GeoAreaName": "World",
+    "TimePeriod": 2015,
+    "Value": 8.7,
+    "Time_Detail": 2015
+  },
+  {
+     
+    "GeoAreaName": "Afghanistan",
+    "TimePeriod": 2015,
+    "Value": 15.4,
+    "Time_Detail": 2015
+  },
+  {
+     
+    "GeoAreaName": "Albania",
+    "TimePeriod": 2015,
+    "Value": 10.1,
+    "Time_Detail": 2015
+  },
+  {
+     
+    "GeoAreaName": "Western Africa",
+    "TimePeriod": 2015,
+    "Value": 22.2,
+    "Time_Detail": 2015
+  },
+  {
+     
+    "GeoAreaName": "Central America",
+    "TimePeriod": 2015,
+    "Value": 10.4,
+    "Time_Detail": 2015
+  },
+  {
+     
+    "GeoAreaName": "Northern Africa",
+    "TimePeriod": 2015,
+    "Value": 10.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Middle Africa",
+    "TimePeriod": 2016,
+    "Value": 39.6,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Andorra",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "World",
+    "TimePeriod": 2016,
+    "Value": 9.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Afghanistan",
+    "TimePeriod": 2016,
+    "Value": 16,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Albania",
+    "TimePeriod": 2016,
+    "Value": 10.5,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Western Africa",
+    "TimePeriod": 2016,
+    "Value": 25.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Central America",
+    "TimePeriod": 2016,
+    "Value": 10.3,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Northern Africa",
+    "TimePeriod": 2016,
+    "Value": 11.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Southern Africa",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Northern America",
+    "TimePeriod": 2015,
+    "Value": 1.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Angola",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Eastern Asia",
+    "TimePeriod": 2015,
+    "Value": 0.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2015,
+    "Value": 5.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "South-Eastern Asia",
+    "TimePeriod": 2015,
+    "Value": 7.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Southern Europe",
+    "TimePeriod": 2015,
+    "Value": 1.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Bahamas",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Bangladesh",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Australia and New Zealand",
+    "TimePeriod": 2015,
+    "Value": 2.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Antigua and Barbuda",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Eastern Asia",
+    "TimePeriod": 2016,
+    "Value": 0.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2016,
+    "Value": 5.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "South-Eastern Asia",
+    "TimePeriod": 2016,
+    "Value": 8.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Southern Europe",
+    "TimePeriod": 2016,
+    "Value": 1.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Bahrain",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2015,
+    "Value": 3.3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Australia and New Zealand",
+    "TimePeriod": 2016,
+    "Value": 3.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Bermuda",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Central and Southern Asia",
+    "TimePeriod": 2016,
+    "Value": 10.6,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Bosnia and Herzegovina",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Solomon Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Burundi",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Polynesia",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Bhutan",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Botswana",
+    "TimePeriod": 2015,
+    "Value": 35,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Belize",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "British Virgin Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Myanmar",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Cambodia",
+    "TimePeriod": 2016,
+    "Value": 14.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Canada",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Caucasus and Central Asia",
+    "TimePeriod": 2015,
+    "Value": 2.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Central African Republic",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Central Asia",
+    "TimePeriod": 2016,
+    "Value": 2.6,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Western Asia",
+    "TimePeriod": 2016,
+    "Value": 9.6,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Europe",
+    "TimePeriod": 2016,
+    "Value": 1.5,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2016,
+    "Value": 4.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Africa",
+    "TimePeriod": 2016,
+    "Value": 25.9,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "America",
+    "TimePeriod": 2016,
+    "Value": 6.9,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Oceania",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Algeria",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Eastern Africa",
+    "TimePeriod": 2016,
+    "Value": 29.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Middle Africa",
+    "TimePeriod": 2015,
+    "Value": 34.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Americas",
+    "TimePeriod": 2016,
+    "Value": 5.6,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Angola",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Caribbean",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Southern Asia",
+    "TimePeriod": 2016,
+    "Value": 10.9,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Australia",
+    "TimePeriod": 2016,
+    "Value": 3.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2016,
+    "Value": 1.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Bangladesh",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Barbados",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Melanesia",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Micronesia",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Central and Southern Asia",
+    "TimePeriod": 2015,
+    "Value": 11.5,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "British Indian Ocean Territory",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Burundi",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Cambodia",
+    "TimePeriod": 2015,
+    "Value": 17.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Canada",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Cabo Verde",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Central African Republic",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Central Asia",
+    "TimePeriod": 2015,
+    "Value": 2.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Western Asia",
+    "TimePeriod": 2015,
+    "Value": 9.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Europe",
+    "TimePeriod": 2015,
+    "Value": 1.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2015,
+    "Value": 3.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Western Europe",
+    "TimePeriod": 2015,
+    "Value": 1.3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Christmas Island",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Comoros",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Democratic Republic of the Congo",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2016,
+    "Value": 4.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Sub-Saharan Africa",
+    "TimePeriod": 2016,
+    "Value": 29.3,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Benin",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Africa",
+    "TimePeriod": 2015,
+    "Value": 23.4,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "South America",
+    "TimePeriod": 2015,
+    "Value": 5.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Oceania",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Algeria",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Eastern Africa",
+    "TimePeriod": 2015,
+    "Value": 27,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "American Samoa",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Americas",
+    "TimePeriod": 2015,
+    "Value": 5.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Northern America",
+    "TimePeriod": 2016,
+    "Value": 1.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2015,
+    "Value": 12.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Equatorial Guinea",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2015,
+    "Value": "<0.5",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "South Georgia and the South Sandwich Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Åland Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "French Polynesia",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Gabon",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Gambia",
+    "TimePeriod": 2016,
+    "Value": 25.9,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2016,
+    "Value": 0.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Kiribati",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Grenada",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Guatemala",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Haiti",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2015,
+    "Value": 1.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Caribbean",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Southern Asia",
+    "TimePeriod": 2015,
+    "Value": 11.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Australia",
+    "TimePeriod": 2015,
+    "Value": 2.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2015,
+    "Value": 1.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Bahrain",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2016,
+    "Value": 3.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Melanesia",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Micronesia",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Polynesia",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Bhutan",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Botswana",
+    "TimePeriod": 2016,
+    "Value": 39.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Belize",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Brunei Darussalam",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Myanmar",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Cameroon",
+    "TimePeriod": 2016,
+    "Value": 35.5,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Southern Asia (excluding India)",
+    "TimePeriod": 2016,
+    "Value": 8.6,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Cayman Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Asia",
+    "TimePeriod": 2016,
+    "Value": 6.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Chad",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Eastern Europe",
+    "TimePeriod": 2016,
+    "Value": 1.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Northern Europe",
+    "TimePeriod": 2016,
+    "Value": 2.6,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "China",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Congo",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2015,
+    "Value": 4.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Cuba",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Sub-Saharan Africa",
+    "TimePeriod": 2015,
+    "Value": 26.3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Benin",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Dominica",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Iraq",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Israel",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Côte d'Ivoire",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Japan",
+    "TimePeriod": 2015,
+    "Value": "<0.5",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Jordan",
+    "TimePeriod": 2015,
+    "Value": 14.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Democratic People's Republic of Korea",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Kuwait",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Latin America and the Caribbean",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Lesotho",
+    "TimePeriod": 2015,
+    "Value": 50.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Liberia",
+    "TimePeriod": 2015,
+    "Value": 57.5,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Libya",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2016,
+    "Value": "<0.5",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Madagascar",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Mali",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Mauritania",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2016,
+    "Value": 7.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Eastern Asia (excluding Japan and China)",
+    "TimePeriod": 2016,
+    "Value": "<0.5",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Eritrea",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Falkland Islands (Malvinas)",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2016,
+    "Value": 2.3,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "French Guiana",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Gabon",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Gambia",
+    "TimePeriod": 2015,
+    "Value": 25.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2015,
+    "Value": 0.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Gibraltar",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Greenland",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Guatemala",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Guyana",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Holy See",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "India",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Iran (Islamic Republic of)",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2016,
+    "Value": 2.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2016,
+    "Value": 1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2016,
+    "Value": 1.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Kenya",
+    "TimePeriod": 2016,
+    "Value": 31.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Kuwait",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Lao People's Democratic Republic",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Lebanon",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2016,
+    "Value": 0.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2016,
+    "Value": 20.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2015,
+    "Value": 0.5,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "China, Macao Special Administrative Region",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Malawi",
+    "TimePeriod": 2016,
+    "Value": 53.9,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Mali",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Martinique",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Cameroon",
+    "TimePeriod": 2015,
+    "Value": 30.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Southern Asia (excluding India)",
+    "TimePeriod": 2015,
+    "Value": 9.3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Caucasus and Central Asia",
+    "TimePeriod": 2016,
+    "Value": 2.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Asia",
+    "TimePeriod": 2015,
+    "Value": 6.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Chad",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Eastern Europe",
+    "TimePeriod": 2015,
+    "Value": 1.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Northern Europe",
+    "TimePeriod": 2015,
+    "Value": 3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "China",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Congo",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Cook Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2016,
+    "Value": 0.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2016,
+    "Value": "<0.5",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2016,
+    "Value": 1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Western Europe",
+    "TimePeriod": 2016,
+    "Value": 1.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Cocos (Keeling) Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Mayotte",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Democratic Republic of the Congo",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2015,
+    "Value": 0.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2015,
+    "Value": 0.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2015,
+    "Value": 0.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2015,
+    "Value": 9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Monaco",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2016,
+    "Value": 2.6,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Morocco",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Oman",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2016,
+    "Value": 1.3,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Namibia",
+    "TimePeriod": 2016,
+    "Value": 41.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Nepal",
+    "TimePeriod": 2015,
+    "Value": 8.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Curaçao",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "New Caledonia",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "New Zealand",
+    "TimePeriod": 2015,
+    "Value": 2.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Niger",
+    "TimePeriod": 2015,
+    "Value": 28.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Niue",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Northern Mariana Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Palau",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Mauritius",
+    "TimePeriod": 2016,
+    "Value": 5.9,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2016,
+    "Value": 10.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2015,
+    "Value": 2.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Montserrat",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Mozambique",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2015,
+    "Value": 1.3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Namibia",
+    "TimePeriod": 2015,
+    "Value": 41.4,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Nauru",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Bonaire, Sint Eustatius and Saba",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Vanuatu",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Nigeria",
+    "TimePeriod": 2016,
+    "Value": 24.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2016,
+    "Value": 1.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Marshall Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2016,
+    "Value": 11.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Ethiopia",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2016,
+    "Value": "<0.5",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Fiji",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "France",
+    "TimePeriod": 2015,
+    "Value": 1.5,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "French Southern Territories",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2015,
+    "Value": 7.5,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2015,
+    "Value": 7.3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Eastern Asia (excluding Japan and China)",
+    "TimePeriod": 2015,
+    "Value": "<0.5",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Ethiopia",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Faroe Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2015,
+    "Value": 2.3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "France",
+    "TimePeriod": 2016,
+    "Value": 1.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Djibouti",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2016,
+    "Value": 7.5,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2016,
+    "Value": 9.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Ghana",
+    "TimePeriod": 2016,
+    "Value": 7.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2016,
+    "Value": 3.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Guam",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Guinea",
+    "TimePeriod": 2016,
+    "Value": 38.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Heard Island and McDonald Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "China, Hong Kong Special Administrative Region",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "India",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2015,
+    "Value": 9.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Ghana",
+    "TimePeriod": 2015,
+    "Value": 7.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2015,
+    "Value": 2.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Guadeloupe",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Guinea",
+    "TimePeriod": 2015,
+    "Value": 38.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Haiti",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "China, Hong Kong Special Administrative Region",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2016,
+    "Value": 1.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Iran (Islamic Republic of)",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2015,
+    "Value": 3.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2015,
+    "Value": 1.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2015,
+    "Value": 0.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Kenya",
+    "TimePeriod": 2015,
+    "Value": 31.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Republic of Korea",
+    "TimePeriod": 2016,
+    "Value": "<0.5",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2016,
+    "Value": 4.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Pitcairn",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2016,
+    "Value": 3.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Puerto Rico",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2016,
+    "Value": 4.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Rwanda",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Anguilla",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Saint Pierre and Miquelon",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Saudi Arabia",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2015,
+    "Value": 1.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Sierra Leone",
+    "TimePeriod": 2015,
+    "Value": 62.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2015,
+    "Value": 0.5,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Small island developing States (SIDS)",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "South Sudan",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2016,
+    "Value": 11.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2015,
+    "Value": 4.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Puerto Rico",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2015,
+    "Value": 4.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Rwanda",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Saint Kitts and Nevis",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Saint Martin (French Part)",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Sao Tome and Principe",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Senegal",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Seychelles",
+    "TimePeriod": 2016,
+    "Value": 2.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Singapore",
+    "TimePeriod": 2016,
+    "Value": 0.5,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2016,
+    "Value": 2.3,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Somalia",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Zimbabwe",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2016,
+    "Value": 1.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Lebanon",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2015,
+    "Value": 0.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2015,
+    "Value": 18.4,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Liechtenstein",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2016,
+    "Value": 1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Malawi",
+    "TimePeriod": 2015,
+    "Value": 53.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Maldives",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Iraq",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Israel",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Côte d'Ivoire",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Japan",
+    "TimePeriod": 2016,
+    "Value": "<0.5",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Jordan",
+    "TimePeriod": 2016,
+    "Value": 13.9,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Republic of Korea",
+    "TimePeriod": 2015,
+    "Value": "<0.5",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2015,
+    "Value": 4.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Mauritius",
+    "TimePeriod": 2015,
+    "Value": 5.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2015,
+    "Value": 9.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2016,
+    "Value": 1.9,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2016,
+    "Value": 2.3,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Mozambique",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Europe and Northern America",
+    "TimePeriod": 2016,
+    "Value": 1.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Developing regions",
+    "TimePeriod": 2016,
+    "Value": 10.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2016,
+    "Value": 0.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Sint Maarten (Dutch part)",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Nigeria",
+    "TimePeriod": 2015,
+    "Value": 22.4,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2015,
+    "Value": 1.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Micronesia (Federated States of)",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Latin America and the Caribbean",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Lesotho",
+    "TimePeriod": 2016,
+    "Value": 50.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Liberia",
+    "TimePeriod": 2016,
+    "Value": 57.5,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Libya",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2015,
+    "Value": 1.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Madagascar",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Sudan",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Suriname",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Northern Africa and Western Asia",
+    "TimePeriod": 2015,
+    "Value": 9.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2016,
+    "Value": 1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2016,
+    "Value": 1.3,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Tajikistan",
+    "TimePeriod": 2016,
+    "Value": 7.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Togo",
+    "TimePeriod": 2016,
+    "Value": 30.5,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "United Arab Emirates",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Western Sahara",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Svalbard and Jan Mayen Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Northern Africa and Western Asia",
+    "TimePeriod": 2016,
+    "Value": 10.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2015,
+    "Value": 2.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Syrian Arab Republic",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Tokelau",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "United Arab Emirates",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Mauritania",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2016,
+    "Value": 8.9,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2015,
+    "Value": 1.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2015,
+    "Value": 2.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Morocco",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Europe and Northern America",
+    "TimePeriod": 2015,
+    "Value": 1.4,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Developing regions",
+    "TimePeriod": 2015,
+    "Value": 10.3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2015,
+    "Value": 0.6,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Nepal",
+    "TimePeriod": 2016,
+    "Value": 8.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Aruba",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "New Zealand",
+    "TimePeriod": 2016,
+    "Value": 2.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Niger",
+    "TimePeriod": 2016,
+    "Value": 28.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Norfolk Island",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "United States Minor Outlying Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Papua New Guinea",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2015,
+    "Value": 1.7,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Guinea-Bissau",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Qatar",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Saint Barthélemy",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Saint Lucia",
+    "TimePeriod": 2015,
+    "Value": 4.5,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2015,
+    "Value": 11.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2016,
+    "Value": 1.7,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Timor-Leste",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Réunion",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Saint Helena",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Saint Lucia",
+    "TimePeriod": 2016,
+    "Value": 4.5,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "San Marino",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Senegal",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Seychelles",
+    "TimePeriod": 2015,
+    "Value": 3.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Singapore",
+    "TimePeriod": 2015,
+    "Value": 0.5,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2015,
+    "Value": 1.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Somalia",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Zimbabwe",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2015,
+    "Value": 1.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Sudan",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2016,
+    "Value": 29.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2016,
+    "Value": 8.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2015,
+    "Value": 0.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2015,
+    "Value": 1.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Tajikistan",
+    "TimePeriod": 2015,
+    "Value": 5.3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Togo",
+    "TimePeriod": 2015,
+    "Value": 30.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Trinidad and Tobago",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Tunisia",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Saint Vincent and the Grenadines",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Saudi Arabia",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2016,
+    "Value": 2.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Sierra Leone",
+    "TimePeriod": 2016,
+    "Value": 62.2,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2016,
+    "Value": 0.5,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Small island developing States (SIDS)",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "South Sudan",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2015,
+    "Value": 26.2,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2015,
+    "Value": 8.3,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Eswatini",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2016,
+    "Value": 3,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Syrian Arab Republic",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Tonga",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Tunisia",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Turks and Caicos Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2015,
+    "Value": 9.4,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Channel Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "United Republic of Tanzania",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "United States Virgin Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Yemen",
+    "TimePeriod": 2016,
+    "Value": "NA",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2015,
+    "Value": 3.8,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2015,
+    "Value": 4,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Jersey",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "United States of America",
+    "TimePeriod": 2015,
+    "Value": 1.1,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Burkina Faso",
+    "TimePeriod": 2016,
+    "Value": 23.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Uzbekistan",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Samoa",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Zambia",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Turkmenistan",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2016,
+    "Value": 3.8,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2016,
+    "Value": 3.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Isle of Man",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "United States of America",
+    "TimePeriod": 2016,
+    "Value": 1.1,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Yemen",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Tuvalu",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2016,
+    "Value": 9.4,
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Guernsey",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "United Republic of Tanzania",
+    "TimePeriod": 2016,
+    "Value": "NV",
+    "Time_Detail": 2016
+  },
+  {
+      
+    "GeoAreaName": "Burkina Faso",
+    "TimePeriod": 2015,
+    "Value": 19.9,
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Uzbekistan",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Wallis and Futuna Islands",
+    "TimePeriod": 2015,
+    "Value": "NA",
+    "Time_Detail": 2015
+  },
+  {
+      
+    "GeoAreaName": "Zambia",
+    "TimePeriod": 2015,
+    "Value": "NV",
+    "Time_Detail": 2015
+  }
+]

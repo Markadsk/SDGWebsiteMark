@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <link rel="data" href="csvjson.json">
+        <link rel="stylesheet" href="searcher.css">
+    </head>
+
+    <body>
+        <div id="SearchBar">
+            Enter Coutry Name: <input type="text" >
+            <button onclick="getTimeAndValueForCountry()">submit</button>
+            <h3 id="results"></h3>
+        </div>
+    <script>
+        var json = require("./csvjson.json");
+
+        function getTimeAndValueForCountry(countryName) {
+            json.forEach(el => {
+                if (el.GeoAreaName === countryName) {
+                    console.log(el.TimePeriod, el.Value);
+    }
+  });
+}
+        getTimeAndValueForCountry("United States of America");
+        getTimeAndValueForCountry("Canada");
+    </script>
+    </body>
+</html>

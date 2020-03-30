@@ -1,0 +1,225 @@
+body {
+    margin-left: 160px; /* Same as the width oxf the sidenav */
+    background-image: url("bg1.jpg");
+  }
+  
+  #header {
+    height: 80px;
+    font-size: 2.0em;
+    text-align: center;
+    margin-left: -200px;
+  }
+  
+.hee{
+  background-color: rgb(247, 164, 47);
+}
+
+  h1 {
+    color: azure;
+    margin-left: 160px; /* Same as the width of the sidenav */
+  }
+  
+  #topNavBar {
+    background-color: rgb(17, 247, 159);
+    height: 200;
+  }
+  
+  #topNavBar ul {
+    margin: 0;
+    padding: 6px;
+  }
+  
+  #topNavBar ul li {
+    display: inline;
+    margin: 4px;
+  }
+  
+  .navButton {
+    color: rgb(58, 116, 241);
+    text-decoration: none;
+  }
+  
+  .post {
+    background-color: rgb(247, 164, 47);
+    margin: 10px 350px 10px 10px;
+    padding: 8px;
+    border-radius: 10px;
+  }
+  
+  .post h3 {
+    color: blue;
+    margin: 0;
+  }
+  
+  .imgside {
+    width: 350px;
+    float: right;
+    clear: right;
+  }
+  
+  .imgside3 {
+    width: 500px;
+    float: auto;
+  }
+  .imgside2 {
+    width: 350px;
+    float: right;
+    clear: right;
+    bottom: auto;
+  }
+
+  #sidebar {
+    width: 350px;
+    float: right; 
+    clear: right;
+    background-color: rgb(248, 248, 43);
+  }
+  
+  #sidebar ul li {
+    list-style: none;
+    margin-bottom: 6px;
+  }
+  
+  .sidebarLink {
+    text-decoration: none;
+    color: blue;
+    margin-top: 100;
+  }
+  
+  #footer {
+    height: 330px;
+  }
+  
+  /* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  margin-right: auto;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+  margin-right: auto;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;  
+  margin-right: auto;
+
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid honeydew;
+  border-top: none;
+  margin-right: auto;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;  
+  font-size: 25px;
+  color: black;
+  display: block;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+body {font-family: Arial;}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+.tName{
+  width: 200px;
+}
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #4CAF50;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
+
+.chart-container{
+  background-color: rgb(236, 213, 236);
+}

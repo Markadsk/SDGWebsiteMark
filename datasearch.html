@@ -1,0 +1,35 @@
+<html>
+    <body>
+
+        <h1>Canvas</h1>
+
+        Hello
+        <canvas id="myCanvas">Your browser does not support the HTML5 canvas tag.</canvas>
+        <br>
+        Hello
+        <canvas id="myCanvas2">Your browser does not support the HTML5 canvas tag.</canvas>
+        <br>
+        Hello
+        <canvas id="myCanvas3">Your browser does not support the HTML5 canvas tag.</canvas>
+
+        <script>
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d");
+            ctx.fillStyle = "#FF0000";
+            ctx.fillRect(0, 0, 250, 50);
+        </script>
+        
+        <script>
+            var c = document.getElementById("myCanvas2");
+            var ctx = c.getContext("2d");
+            ctx.fillStyle = "#FF0000";
+            ctx.fillRect(0, 0, 100, 50);
+        </script>
+        <script>
+            var c = document.getElementById("myCanvas3");
+            var ctx = c.getContext("2d");
+            ctx.fillStyle = "#FF0000";
+            ctx.fillRect(0,0, 50, 50);
+        </script>
+    </body>
+</html>
